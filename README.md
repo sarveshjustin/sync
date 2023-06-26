@@ -15,3 +15,4 @@ module Counter_3bit (
 endmodule
 
 ```
+![image](https://github.com/sarveshjustin/sync/assets/113497481/9d4b171f-a52d-446b-adc2-beac303977f5)
